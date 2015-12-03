@@ -1,0 +1,7 @@
+C:\Users\adani\Desktop\obtener\App1\App1\obj\Debug\assemblies\App1.dll
+C:\Users\adani\Desktop\obtener\App1\App1\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\adani\Desktop\obtener\App1\App1\obj\Debug\assemblies\mscorlib.dll
+C:\Users\adani\Desktop\obtener\App1\App1\obj\Debug\assemblies\System.Core.dll
+C:\Users\adani\Desktop\obtener\App1\App1\obj\Debug\assemblies\System.dll
+C:\Users\adani\Desktop\obtener\App1\App1\obj\Debug\assemblies\System.Xml.dll
+C:\Users\adani\Desktop\obtener\App1\App1\obj\Debug\assemblies\System.Xml.Linq.dll
